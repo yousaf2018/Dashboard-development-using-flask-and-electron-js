@@ -1,0 +1,17 @@
+body {
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+}
+
+#articles {
+    height: 100vh;
+    overflow-y: auto;
+    padding: 3px;
+    background: darkgray;
+}
+
+#myform {
+    background: darkgray;
+
+}

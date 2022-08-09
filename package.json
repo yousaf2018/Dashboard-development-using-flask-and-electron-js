@@ -1,0 +1,26 @@
+{
+  "name": "Dashboard-development-using-flask-and-electron-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousaf2018/Dashboard-development-using-flask-and-electron-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousaf2018/Dashboard-development-using-flask-and-electron-js/issues"
+  },
+  "homepage": "https://github.com/yousaf2018/Dashboard-development-using-flask-and-electron-js#readme",
+  "devDependencies": {
+    "electron": "^20.0.1"
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
